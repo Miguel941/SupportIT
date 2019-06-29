@@ -1,0 +1,133 @@
+
+/* unvisited link */
+td a:link {color: red;}
+
+/* visited link */
+a:visited {color: green;}
+
+/* mouse over link */
+a:hover {color: black;
+		 transform: scale(1.5);
+		 opacity: .2;
+		 }
+
+/* selected link */
+a:active {color: blue;}
+
+nav{
+	padding: 10px;
+	background: lightblue;
+	border: 2px;
+	color: black; 
+	}
+
+a{ 
+	border: 4px;
+	padding: 2px;
+	border-color: green;
+	font-family: verdana;
+	font-size: 18px;
+	}
+
+	
+span.AI  {color:red;}
+span.MI {color:orange;}
+span.BI {color:green;}
+
+p.AI  {color:red;}
+p.MI {color:orange;}
+p.BI {color:green;}
+
+body {background-color:#B0B3F9;
+	  -webkit-user-select:none;
+	  -moz-user-select:none;
+	  -ms-user-select:none;
+	  user-select:none;
+	  font-family:arial;
+}
+
+div.menu{text-align:center;
+		 border:double #0F46E5 8px;
+		 margin-left:0px;
+}
+		 
+ul{
+}
+
+
+section.iframe{
+	                 margin-left:340px;	
+	                 border:double #0F46E5 8px;	
+                     width:600px;					 
+}
+
+section.iconoscontacto{
+	                     margin-left:450px;						 
+}
+
+iframe{
+	         text-align:center;
+}
+
+table.tabla1{
+	             border:double #0F46E5 8px;
+				 margin-left:120px;
+}
+
+p.centrate{
+	         text-align:center;
+}
+
+p.titulo{
+	         text-align:center;
+			 font-size:20px;
+}
+
+p{
+	 margin-left:40px;
+	 margin-right:40px;
+	 margin-bottom:10px;
+}
+
+footer.cosarara{
+	                 text-align:center;
+}
+
+img.imageninicio1{
+		             border:double #0F46E5 8px;
+					 margin-left:160px;
+}
+
+img.fotocabecera{
+	                 width:1250px;
+}
+
+img.allinone{
+	             margin:40px;
+				 border:solid blue 8px;
+				 width:300px;
+				 height:250px;
+}
+
+img.portatil{
+	             margin:40px;
+				 border:solid blue 8px;
+				 width:350px;
+				 height:250px;
+}
+
+img.sobremesa{
+				margin:40px;
+				 border:solid blue 8px;
+				 width:200px;
+				 height:300px;
+}
+
+p.enlace{		font-size:16px;
+				backgroung-color:white;
+				text-align:center;
+				border:blue 2px dashed;
+				margin-top:4%;
+}
+
+section.ventas {text-align:center;}
